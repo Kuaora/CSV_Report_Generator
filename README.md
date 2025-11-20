@@ -2,6 +2,7 @@
 Вывод данных из CSV файла в виде таблицы
 
 `main.py` - основной файл программы.
+
 `test_main.py` - файл, содержащий тесты pytest программы `main.py`.
 
 `image_examples` - папка, содержащая скрины примеров работы программы.
@@ -15,4 +16,4 @@
 
 ## Быстрый пример
 ```bash
-python main.py --files employees1.csv employees2.csv --report performance team --count Python
+python main.py --files C:\Users\admin\Desktop\employees1.csv employees2.csv --report performance skill
